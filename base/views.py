@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import Product
+from .models import Product, Users
 
 # Create your views here.
 def home(request):
